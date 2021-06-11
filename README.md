@@ -1,2 +1,2 @@
 # MrBeanCv
-Mr.Bean Cv
+My html css and js project
